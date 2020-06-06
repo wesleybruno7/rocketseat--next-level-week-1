@@ -1,0 +1,9 @@
+FUNCIONALIDADES
+
+WEB:
+- cadastro de pontos de coleta
+- listar os itens de coleta
+
+MOBILE:
+- listar pontos (filtro por estado/cidade/itens)
+- listar um ponto de coleta especifico

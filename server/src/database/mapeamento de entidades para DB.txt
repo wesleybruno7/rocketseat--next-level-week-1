@@ -1,0 +1,19 @@
+ENTIDADES/TABELAS
+
+Points << pontos de coleta
+- image
+- name
+- email
+- whatsapp
+- latitude
+- longitude
+- city
+- uf
+
+Items << itens para coleta
+- image
+- title
+
+point_items (N-N / tabela Pivot) << relacionamento dos itens que um ponto coleta
+- point_id
+- item_id
